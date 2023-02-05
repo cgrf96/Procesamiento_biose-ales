@@ -27,3 +27,9 @@ Este repositorio tiene el objetivo de ser una guía introductoria al procesamien
 6. (Extra) Procesamiento de imágenes.
     1. Transformada de Fourier en 2D.
     2. Filtros digitales en 2D.
+
+## Autores
+_Todos los autores contribuyeron de igual forma al desarrollo de este proyecto._
+- Hernández Nava _Gerardo_ &nbsp;<a href="https://github.com/Gerardo-Hernandez"><img src="./figures/github-mark-white.png" height="15em"></a>&nbsp; <a href="https://www.linkedin.com/in/GerardoHernándezNava/"><img src="./figures/LI-In-Bug.png" height="15em"></a>
+- Leyva López _Sheila_ &nbsp;<a href="https://github.com/sleyva29"><img src="./figures/github-mark-white.png" height="15em"></a>&nbsp; <a href="https://www.linkedin.com/in/sheileyva/"><img src="./figures/LI-In-Bug.png" height="15em"></a>
+- Mena Camilo _Enrique_ &nbsp;<a href="https://github.com/EnriqueMC557"><img src="./figures/github-mark-white.png" height="15em"></a>&nbsp; <a href="https://www.linkedin.com/in/enriquemenacamilo/"><img src="./figures/LI-In-Bug.png" height="15em"></a>
