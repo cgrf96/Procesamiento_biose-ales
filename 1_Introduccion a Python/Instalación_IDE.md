@@ -3,8 +3,8 @@
 Un entorno de desarrollo integrado (IDE) es una aplicación de software que proporciona un entorno completo para el desarrollo de software. En el caso de Python, hay varios IDE populares disponibles:
 
 
-![Descripción de la imagen](/Images/pycharm.png)
-![Descripción de la imagen](/Images/pycharm_2.jpg)
+![Descripción de la imagen](/figures/pycharm.png)
+![Descripción de la imagen](/figures/pycharm_2.jpg)
 PyCharm: PyCharm es un IDE profesional para el desarrollo de Python. Tiene una gran cantidad de características, que incluyen:
 - Editor de código inteligente.
 - Depurador integrado.
@@ -20,8 +20,8 @@ PyCharm: PyCharm es un IDE profesional para el desarrollo de Python. Tiene una g
 Está disponible tanto en una edición comunitaria gratuita como en una edición profesional de paga.
 
 
-![Descripción de la imagen](/Images/vsc.png)
-![Descripción de la imagen](/Images/vsc_2.png)
+![Descripción de la imagen](/figures/vsc.png)
+![Descripción de la imagen](/figures/vsc_2.png)
 Visual Studio Code: Visual Studio Code es un popular editor de código de código abierto que admite varios lenguajes de programación, incluido Python. Tiene una gran cantidad de extensiones disponibles.
 
 - Editor de código ligero y altamente personalizable.
@@ -35,7 +35,7 @@ Visual Studio Code: Visual Studio Code es un popular editor de código de códig
 - Integración con entornos virtuales de Python.
 - Soporte multiplataforma.
 
-![Descripción de la imagen](/Images/spyder.png)
+![Descripción de la imagen](/figures/spyder.png)
 Spyder: Spyder es un IDE científico para Python que está diseñado para su uso en informática científica, análisis de datos e ingeniería. Tiene características como una consola interactiva, un explorador de variables y documentación integrada.
 
 - Editor de código con resaltado de sintaxis.
@@ -50,7 +50,7 @@ Spyder: Spyder es un IDE científico para Python que está diseñado para su uso
 Estos son algunos de los IDE populares para el desarrollo de Python, y la elección del IDE dependerá de las necesidades y preferencias específicas del individuo. Algunas personas prefieren un IDE ligero y simple, mientras que otras prefieren un IDE más rico en funciones y potente.
 
 # ANACONDA
-![Descripción de la imagen](/Images/Anaconda.Starting_page.png)
+![Descripción de la imagen](/figures/Anaconda.Starting_page.png)
 Anaconda es una distribución del lenguaje de programación Python, que incluye una gran cantidad de:
 - bibliotecas
 - herramientas
@@ -79,7 +79,7 @@ Descargue el instalador de Anaconda: vaya al sitio web de Anaconda (https://www.
 
 1. Inicie el instalador: haga doble clic en el archivo de instalación de Anaconda descargado para iniciarlo.
 
-![Descripción de la imagen](/Images/win-install-pycharm.png)
+![Descripción de la imagen](/figures/win-install-pycharm.png)
 
 2. Siga el asistente de configuración: El asistente de configuración lo guiará a través del proceso de instalación. Puede aceptar las opciones predeterminadas para la mayoría de los pasos, o puede optar por personalizar la instalación si lo prefiere.
 
