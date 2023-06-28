@@ -4,18 +4,48 @@ Un entorno de desarrollo integrado (IDE) es una aplicación de software que prop
 
 
 ![Descripción de la imagen](/Images/pycharm.png)
-PyCharm: PyCharm es un IDE profesional para el desarrollo de Python. Tiene una gran cantidad de características, que incluyen finalización de código, depuración, prueba e integración de control de versiones. Está disponible tanto en una edición comunitaria gratuita como en una edición profesional paga.
+![Descripción de la imagen](/Images/pycharm_2.jpg)
+PyCharm: PyCharm es un IDE profesional para el desarrollo de Python. Tiene una gran cantidad de características, que incluyen:
+- Editor de código inteligente.
+- Depurador integrado.
+- Soporte para múltiples frameworks y bibliotecas de Python.
+- Administración de entornos virtuales.
+- Integración con control de versiones.
+- Análisis estático y detección de errores.
+- Testing y cobertura de código.
+- Herramientas de productividad.
+- Integración con herramientas externas.
+- Soporte multiplataforma.
+
+Está disponible tanto en una edición comunitaria gratuita como en una edición profesional de paga.
 
 
 ![Descripción de la imagen](/Images/vsc.png)
+![Descripción de la imagen](/Images/vsc_2.png)
+Visual Studio Code: Visual Studio Code es un popular editor de código de código abierto que admite varios lenguajes de programación, incluido Python. Tiene una gran cantidad de extensiones disponibles.
 
-Visual Studio Code: Visual Studio Code es un popular editor de código de código abierto que admite varios lenguajes de programación, incluido Python. Tiene una gran cantidad de extensiones disponibles, incluida una extensión de Python que proporciona funciones como la finalización y la depuración de código.
-
-
+- Editor de código ligero y altamente personalizable.
+- Amplia gama de extensiones para ampliar su funcionalidad.
+- Depuración integrada.
+- Control de versiones con Git.
+- Terminal integrada.
+- Finalización de código y sugerencias inteligentes.
+- Snippets personalizados.
+- Vista previa en vivo de archivos HTML, Markdown, etc.
+- Integración con entornos virtuales de Python.
+- Soporte multiplataforma.
 
 ![Descripción de la imagen](/Images/spyder.png)
 Spyder: Spyder es un IDE científico para Python que está diseñado para su uso en informática científica, análisis de datos e ingeniería. Tiene características como una consola interactiva, un explorador de variables y documentación integrada.
 
+- Editor de código con resaltado de sintaxis.
+- Explorador de variables en tiempo real.
+- Consola IPython interactiva.
+- Administración de paquetes integrada.
+- Integración con matplotlib.
+- Depurador integrado.
+- Soporte de entornos virtuales.
+- Completitud de código.
 
 Estos son algunos de los IDE populares para el desarrollo de Python, y la elección del IDE dependerá de las necesidades y preferencias específicas del individuo. Algunas personas prefieren un IDE ligero y simple, mientras que otras prefieren un IDE más rico en funciones y potente.
 
